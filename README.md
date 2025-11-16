@@ -1,4 +1,4 @@
-# Donasikan-webb
+# Donasikan-dapp
 
 - Dapp untuk melakukan eksekusi smart contract erc20
 
@@ -6,6 +6,10 @@
 - Check stores/ether.ts , Update information getContract
 
 ## installation
+
+```sh
+npm install
+```
 
 ```sh
 npm run dev
@@ -21,4 +25,5 @@ npm run build
 - vue shadcn
 - originui vue
 - tailwind
+- web3
 
